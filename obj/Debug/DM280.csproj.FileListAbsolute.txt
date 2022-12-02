@@ -1,0 +1,16 @@
+C:\Users\admin\Desktop\DM280\obj\Debug\DM280.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\DM280\obj\Debug\DM280.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Desktop\DM280\obj\Debug\DM280.Form1.resources
+C:\Users\admin\Desktop\DM280\obj\Debug\DM280.Properties.Resources.resources
+C:\Users\admin\Desktop\DM280\obj\Debug\DM280.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\DM280\obj\Debug\DM280.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\DM280\bin\Debug\DM280.exe.config
+C:\Users\admin\Desktop\DM280\bin\Debug\DM280.exe
+C:\Users\admin\Desktop\DM280\bin\Debug\DM280.pdb
+C:\Users\admin\Desktop\DM280\obj\Debug\DM280.exe
+C:\Users\admin\Desktop\DM280\obj\Debug\DM280.pdb
+C:\Users\admin\Desktop\DM280\bin\Debug\HslCommunication.dll
+C:\Users\admin\Desktop\DM280\bin\Debug\HslCppExtension.dll
+C:\Users\admin\Desktop\DM280\bin\Debug\Newtonsoft.Json.dll
+C:\Users\admin\Desktop\DM280\bin\Debug\Newtonsoft.Json.xml
+C:\Users\admin\Desktop\DM280\obj\Debug\DM280.csproj.CopyComplete
